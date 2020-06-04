@@ -1,4 +1,4 @@
-### Flextbox and Templating
+### Flexbox and Templating
 
 #### Templating with Mustache
 
